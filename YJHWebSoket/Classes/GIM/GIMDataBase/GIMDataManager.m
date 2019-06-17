@@ -11,6 +11,7 @@
 #import "GIMMessage.h"
 #import "GIMClient.h"
 #import "MJExtension.h"
+#import "FMDB.h"
 
 static NSMutableArray *_conversations;
 

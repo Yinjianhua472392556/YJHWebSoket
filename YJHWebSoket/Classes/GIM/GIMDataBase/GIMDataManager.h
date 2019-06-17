@@ -8,7 +8,6 @@
 
 #import <Foundation/Foundation.h>
 #import "GIMConversation.h"
-#import "FMDB.h"
 
 @class GIMMessage;
 
