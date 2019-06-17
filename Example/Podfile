@@ -1,0 +1,6 @@
+use_frameworks!
+target 'YJHWebSoket_Tests' do
+  pod 'YJHWebSoket', :path => '../'
+  
+  
+end
